@@ -1,0 +1,12 @@
+name: "727hunt"
+version: '${version}'
+main: lgbt.nora.seven27
+api-version: 1.18
+prefix: "osu!manhunt"
+authors: [ "Mokiy" ]
+description: "OSU!Players' Favourite Manhunt Plugin | WYFSI"
+website: https://github.com/727bot
+commands:
+  727manhunt:
+    aliases: []
+    description: Provides information about 727hunt
